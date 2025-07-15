@@ -1,0 +1,33 @@
+<!--#set var="pagetitle" value="STNTUPLE datasets" -->
+<!--#include virtual="/includes/mu2e_top.shtml" -->
+<!-- End of header:  Put your html below this comment. -->
+<p>
+STNTUPLE datasets , book = <b>murat</b> <br> <br>
+<body style="font-family:monospace;">
+<style type="text\css">
+span {
+display: inline-block;
+width: 200px;
+}
+</style>
+<ul>
+<p> <li> datasets version 5710 <p>
+<li> <a href=ap0s5710/AAA_CATALOG.html width=200px>ap0s5710 ...</a> | <a href=ap0s5710/AAA_FILES.txt> files </a> | v7_1_1 |  ................................................................................................... |  see more details in the fileset catalog .........
+<p> <li> datasets version 721z <p>
+<li> <a href=e20s721z/AAA_CATALOG.html width=200px>e20s721z ...</a> | <a href=e20s721z/AAA_FILES.txt> files </a> | ...... | ................................................................................................... |  see more details in the fileset catalog .........
+<li> <a href=e40s721z/AAA_CATALOG.html width=200px>e40s721z ...</a> | <a href=e40s721z/AAA_FILES.txt> files </a> | ...... | ................................................................................................... |  see more details in the fileset catalog .........
+<li> <a href=r10s721z/AAA_CATALOG.html width=200px>r10s721z ...</a> | <a href=r10s721z/AAA_FILES.txt> files </a> | ...... | ................................................................................................... |  see more details in the fileset catalog .........
+<li> <a href=r40s721z/AAA_CATALOG.html width=200px>r40s721z ...</a> | <a href=r40s721z/AAA_FILES.txt> files </a> | ...... | ................................................................................................... |  see more details in the fileset catalog .........
+<p> <li> datasets version 7500 <p>
+<li> <a href=e99s7500/AAA_CATALOG.html width=200px>e99s7500 ...</a> | <a href=e99s7500/AAA_FILES.txt> files </a> | v7_5_0 |  105 MeV/c electrons, reconstruction: with (KFFDeMHPar) and without (KFFDeMHDar) the TrkCaloHit used |  see more details in the fileset catalog .........
+</ul>
+<li> <b>*721z</b> datasets are test datasets for large scale validation of the ambiguity resolver
+<hr>
+<li> <b>*e99s7500</b> dataset is a dataset for TrkCaloHit studies
+<hr>
+
+<body style="" >
+ <a href=https://mu2einternalwiki.fnal.gov/wiki/Stntuple-Datasets>back to the top catalog page</a>
+<!-- Start of footer:  End your html before this comment. -->
+<!--#set var="contact" value="kutschke@fnal.gov" -->
+<!--#include virtual="/includes/mu2e_footer.shtml" -->

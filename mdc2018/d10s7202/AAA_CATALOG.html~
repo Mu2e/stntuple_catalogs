@@ -1,0 +1,17 @@
+<pre>
+#------------------------------------------------------------------------------------------------------------------------------------
+# <b>dataset: d10s7202</b> 
+# fileset     server             directory          nevents
+#------------------------------------------------------------------------------------------------------------------------------------
+000001  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/d10s7202   206597    1002         1    1002    200000
+000002  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/d10s7202   206411    1002         3    1002    199998
+000003  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/d10s7202   207224    1002         8    1002    199999
+000004  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/d10s7202   205285    1002        12    1002    200000
+000005  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/d10s7202   206163    1002        16    1002    199994
+000006  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/d10s7202   206879    1002        18    1002    200000
+000007  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/d10s7202   206242    1002        24    1002    199999
+000008  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/d10s7202   206095    1002        32    1002    199999
+000009  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/d10s7202   206211    1002        47    1002    200000
+000010  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/d10s7202    18795    1002       111    1002    199992
+#------------------------------------------------------------------------------------------------------------------------------------
+</pre>

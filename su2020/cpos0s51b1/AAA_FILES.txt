@@ -1,0 +1,4 @@
+000001 :      0.000  /pnfs/mu2e/persistent/users/mu2epro/su2020/stntuple/cpos0s51b1/nts.mu2e.cpos0s51b1.su2020.001000_00000000.stn       0       0         0       0         0
+000001 init_dataset      0.000  input file:      0       0         0       0         0
+000001 init_dataset      0.000  input file:      0       0         0       0         0
+000001 nts.mu2e.cpos0s51b1.su2020.001000_00000000.stn    955.044  2020-11-28 12:10:44 302356    1000         1    1000      2000

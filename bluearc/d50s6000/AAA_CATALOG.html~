@@ -1,0 +1,29 @@
+<pre>
+#------------------------------------------------------------------------------------------------------------------------------------
+# <b>dataset: d50s6000</b> 
+#
+# DESCRIPTION: full DIO LO spectrum (Szarnecki'2011) at B = 0.5 T ; no background; DetectorFilter
+#
+# fileset     server             directory          nevents
+#------------------------------------------------------------------------------------------------------------------------------------
+000001  bluearc://localhost.fnal.gov   /mu2e/data/users/murat/datasets/d50s6000      219848 1000000   1000000 14135814    100000
+000002  bluearc://localhost.fnal.gov   /mu2e/data/users/murat/datasets/d50s6000      220815 1000000   1000000 14135814    100000
+000003  bluearc://localhost.fnal.gov   /mu2e/data/users/murat/datasets/d50s6000      220585 1000000   1000000 14135814    100000
+000004  bluearc://localhost.fnal.gov   /mu2e/data/users/murat/datasets/d50s6000      220614 1000000   1000000 14135814    100000
+000005  bluearc://localhost.fnal.gov   /mu2e/data/users/murat/datasets/d50s6000      219914 1000000   1000000 14135814    100000
+000006  bluearc://localhost.fnal.gov   /mu2e/data/users/murat/datasets/d50s6000      219803 1000000   1000000 14135814    100000
+000007  bluearc://localhost.fnal.gov   /mu2e/data/users/murat/datasets/d50s6000      220718 1000000   1000000 14135814    100000
+000008  bluearc://localhost.fnal.gov   /mu2e/data/users/murat/datasets/d50s6000      220291 1000000   1000000 14135814    100000
+000009  bluearc://localhost.fnal.gov   /mu2e/data/users/murat/datasets/d50s6000      220786 1000000   1000000 14135814    100000
+000010  bluearc://localhost.fnal.gov   /mu2e/data/users/murat/datasets/d50s6000      220211 1000000   1000000 14135814    100000
+000011  bluearc://localhost.fnal.gov   /mu2e/data/users/murat/datasets/d50s6000      220361 1000000   1000000 14135814    100000
+000012  bluearc://localhost.fnal.gov   /mu2e/data/users/murat/datasets/d50s6000      220170 1000000   1000000 14135814    100000
+000013  bluearc://localhost.fnal.gov   /mu2e/data/users/murat/datasets/d50s6000      109446 1000000   1000000 14135814     99999
+#------------------------------------------------------------------------------------------------------------------------------------
+# NTOTAL:                                                                           2753562
+# NGENERATED:                                                                      10000000
+# OFFLINE_VERSION: v6_0_0
+# SIGNAL_PARTICLE: 11
+# GENERATOR_CODE:  28
+#-----------------------------------------------------------------------------------------------------------------------
+</pre>

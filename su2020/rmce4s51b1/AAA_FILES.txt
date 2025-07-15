@@ -1,0 +1,4 @@
+000001 :      0.000  /pnfs/mu2e/persistent/users/mu2epro/su2020/stntuple/rmce4s51b1/nts.mu2e.rmce4s51b1.su2020.001000_00000000.stn       0       0         0       0         0
+000001 init_dataset      0.000  input file:      0       0         0       0         0
+000001 init_dataset      0.000  input file:      0       0         0       0         0
+000001 nts.mu2e.rmce4s51b1.su2020.001000_00000000.stn    114.692  2020-12-07 13:25:43  67429    1000         5    1000    299993

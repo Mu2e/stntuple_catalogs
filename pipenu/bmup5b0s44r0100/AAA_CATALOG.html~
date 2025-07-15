@@ -1,0 +1,35 @@
+<pre>
+#-----------------------------------------------------------------------------------------------------------------------------------------------
+# <b>dataset: bmup5b0s44r0100</b> 
+# :DESCRIPTION: 
+# fs       server                   directory                                           nevents
+#-----------------------------------------------------------------------------------------------------------------------------------------------
+000001  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup5b0s44r0100 1762394    1210         1    1210   1600000
+000002  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup5b0s44r0100 1758633    1210         1    1210   1599999
+000003  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup5b0s44r0100 1768303    1210         1    1210   1599999
+000004  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup5b0s44r0100 1730525    1210         1    1210   1600000
+000005  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup5b0s44r0100 1782548    1210         1    1210   1600000
+000006  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup5b0s44r0100 1754175    1210         1    1210   1600000
+000007  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup5b0s44r0100 1773821    1210         1    1210   1599999
+000008  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup5b0s44r0100 1749604    1210         1    1210   1600000
+000009  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup5b0s44r0100 1786480    1210         1    1210   1599999
+000010  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup5b0s44r0100 1765321    1210         1    1210   1600000
+000011  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup5b0s44r0100 1760266    1210         1    1210   1600000
+000012  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup5b0s44r0100 1742566    1210         1    1210   1600000
+000013  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup5b0s44r0100 1750776    1210         1    1210   1599998
+000014  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup5b0s44r0100 1749023    1210         1    1210   1600000
+000015  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup5b0s44r0100 1767567    1210         1    1210   1599998
+000016  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup5b0s44r0100 1748663    1210         1    1210   1599998
+000017  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup5b0s44r0100 1736862    1210         2    1210   1599998
+000018  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup5b0s44r0100 1767313    1210         2    1210   1600000
+000019  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup5b0s44r0100 1758462    1210         2    1210   1600000
+000020  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup5b0s44r0100 1756516    1210         2    1210   1600000
+#-----------------------------------------------------------------------------------------------------------------------------------------------
+# :NTOTAL:                                                                             35169818
+# :NGENERATED:                                                                                 
+# :MC_FLAG:                                                                                   1
+# :PROCESS_CODE:                                                                               
+# :PDG_CODE:                                                                                   
+# :OFFLINE_VERSION:                                                                   vXX_XX_XX
+#-----------------------------------------------------------------------------------------------------------------------------------------------
+</pre>

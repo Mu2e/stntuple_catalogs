@@ -1,0 +1,15 @@
+<pre>
+#------------------------------------------------------------------------------------------------------------------------------------
+# <b>dataset: e31s5730</b> 
+# fileset     server             directory          nevents
+#------------------------------------------------------------------------------------------------------------------------------------
+000002  bluearc://localhost.fnal.gov   /mu2e/data/users/murat/datasets/e31s5730/000002  60096    4001         1    4001      1000
+000003  bluearc://localhost.fnal.gov   /mu2e/data/users/murat/datasets/e31s5730/000003  54125    4001         1    4001      1000
+000004  bluearc://localhost.fnal.gov   /mu2e/data/users/murat/datasets/e31s5730/000004  60096    4001         1    4001      1000
+000005  bluearc://localhost.fnal.gov   /mu2e/data/users/murat/datasets/e31s5730/000005  60096    4001         1    4001      1000
+000006  bluearc://localhost.fnal.gov   /mu2e/data/users/murat/datasets/e31s5730/000006  60096    4001         1    4001      1000
+000007  bluearc://localhost.fnal.gov   /mu2e/data/users/murat/datasets/e31s5730/000007  60096    4001         1    4001      1000
+000008  bluearc://localhost.fnal.gov   /mu2e/data/users/murat/datasets/e31s5730/000008  60096    4001         1    4001      1000
+000009  bluearc://localhost.fnal.gov   /mu2e/data/users/murat/datasets/e31s5730/000009  60096    4001         1    4001      1000
+#------------------------------------------------------------------------------------------------------------------------------------
+</pre>

@@ -1,0 +1,20 @@
+<pre>
+#-----------------------------------------------------------------------------------------------------------------------------------------------
+# <b>dataset: pbar0s61b0</b> 
+# :DESCRIPTION: pbars .....
+# fs       server                   directory                                                  nevents
+#-----------------------------------------------------------------------------------------------------------------------------------------------
+000001  xroot://fndca1.fnal.gov  /pnfs/mu2e/persistent/users/mu2epro/su2020/stntuple/pbar0s61b0 973204    1000         1    1000     50000
+000002  xroot://fndca1.fnal.gov  /pnfs/mu2e/persistent/users/mu2epro/su2020/stntuple/pbar0s61b0 971742    1000         1    1000     50000
+000003  xroot://fndca1.fnal.gov  /pnfs/mu2e/persistent/users/mu2epro/su2020/stntuple/pbar0s61b0 980838    1000         1    1000     50000
+000004  xroot://fndca1.fnal.gov  /pnfs/mu2e/persistent/users/mu2epro/su2020/stntuple/pbar0s61b0 972147    1000         1    1000     50000
+000005  xroot://fndca1.fnal.gov  /pnfs/mu2e/persistent/users/mu2epro/su2020/stntuple/pbar0s61b0 194457    1000         1    1000     50000
+#-----------------------------------------------------------------------------------------------------------------------------------------------
+# :NTOTAL:                                                                                     4092388
+# :NGENERATED:                                                                                20000000
+# :MC_FLAG:                                                                                          1
+# :PROCESS_CODE:                                                                                    39
+# :PDG_CODE:                                                                                        11
+# :OFFLINE_VERSION:                                                                             v9_0_5
+#-----------------------------------------------------------------------------------------------------------------------------------------------
+</pre>

@@ -1,0 +1,24 @@
+<!--#set var="pagetitle" value="STNTUPLE datasets" -->
+<!--#include virtual="/includes/mu2e_top.shtml" -->
+<!-- End of header:  Put your html below this comment. -->
+<p>
+STNTUPLE datasets , book = <b>mmackenz</b> <br> <br>
+<body style="font-family:monospace;">
+<style type="text\css">
+span {
+display: inline-block;
+width: 200px;
+}
+</style>
+<ul>
+<p> <li> datasets version 6530 <p>
+<li> <a href=d60s6530/AAA_CATALOG.html width=200px>d60s6530 ...</a> | <a href=d60s6530/AAA_FILES.txt> files </a> | ...... | ................................................................................................... |  see <a href=d60s6530/AAA_DESCRIPTION.html> detailed description of the dataset </a>
+<p> <li> datasets version 7050 <p>
+<li> <a href=r30s7050/AAA_CATALOG.html width=200px>r30s7050 ...</a> | <a href=r30s7050/AAA_FILES.txt> files </a> | v7_0_5 | RMC external conversions, fcl: MMAnalysis/test/rmc_external_stnmaker.fcl........................... |  see more details in the fileset catalog .........
+<li> <a href=r40s7050/AAA_CATALOG.html width=200px>r40s7050 ...</a> | <a href=r40s7050/AAA_FILES.txt> files </a> | v7_0_5 | RMC internal conversions, fcl: MMAnalysis/test/rmc_internal_stnmaker.fcl........................... |  see more details in the fileset catalog .........
+</ul>
+<body style="" >
+ <a href=https://mu2einternalwiki.fnal.gov/wiki/Stntuple-Datasets>back to the top catalog page</a>
+<!-- Start of footer:  End your html before this comment. -->
+<!--#set var="contact" value="kutschke@fnal.gov" -->
+<!--#include virtual="/includes/mu2e_footer.shtml" -->

@@ -1,0 +1,39 @@
+<!--#set var="pagetitle" value="STNTUPLE datasets" -->
+<!--#include virtual="/includes/mu2e_top.shtml" -->
+<!-- End of header:  Put your html below this comment. -->
+<p>
+STNTUPLE datasets , book = <b>pbar2m</b> <br> <br>
+<body style="font-family:monospace;">
+<style type="text\css">
+span {
+display: inline-block;
+width: 200px;
+}
+</style>
+<ul>
+<li> <a href=bmum1s41b0/AAA_CATALOG.html width=200px>bmum1s41b0 .</a> | <a href=bmum1s41b0/AAA_FILES.txt> files </a> | v10_17_00 |  stopped mu-, B=0.5 T............................................................................... |  see more details in the fileset catalog .........
+<li> <a href=bmum1s42b0/AAA_CATALOG.html width=200px>bmum1s42b0 .</a> | <a href=bmum1s42b0/AAA_FILES.txt> files </a> | v10_17_00 |  stopped mu+ , B = 0.5 T............................................................................ |  see more details in the fileset catalog .........
+<li> <a href=cele0s61b0/AAA_CATALOG.html width=200px>cele0s61b0 .</a> | <a href=cele0s61b0/AAA_FILES.txt> files </a> | v10_10_02 |  stntupled validation version of the CE-only dataset ................................................ |  see more details in the fileset catalog .........
+<li> <a href=cry4hb0s61/AAA_CATALOG.html width=200px>cry4hb0s61 .</a> | <a href=cry4hb0s61/AAA_FILES.txt> files </a> | vX_X_X |  ................................................................................................... |  see more details in the fileset catalog .........
+<li> <a href=cry4lb1s61r0003/AAA_CATALOG.html width=200px>cry4lb1s61r0</a> | <a href=cry4lb1s61r0003/AAA_FILES.txt> files </a> | vXX_XX_XX |  ................................................................................................... |  see more details in the fileset catalog .........
+<li> <a href=mupl0b0s51r0000/AAA_CATALOG.html width=200px>mupl0b0s51r0</a> | <a href=mupl0b0s51r0000/AAA_FILES.txt> files </a> | vXX_XX_XX |  Michel decays : mu+ --> e+ \nu \nu , B = 0.5 T..................................................... |  see more details in the fileset catalog .........
+<li> <a href=mupl0b0s51r0100/AAA_CATALOG.html width=200px>mupl0b0s51r0</a> | <a href=mupl0b0s51r0100/AAA_FILES.txt> files </a> | vXX_XX_XX |  ................................................................................................... |  see more details in the fileset catalog .........
+<li> <a href=pbar0s41b0/AAA_CATALOG.html width=200px>pbar0s41b0 .</a> | <a href=pbar0s41b0/AAA_FILES.txt> files </a> | v10_17_00 |  stntupled pbar0 - ppbar annihilation, reconstruction - so far, digitization only................... |  see more details in the fileset catalog .........
+<li> <a href=pbar0s41b1/AAA_CATALOG.html width=200px>pbar0s41b1 .</a> | <a href=pbar0s41b1/AAA_FILES.txt> files </a> | v10_17_00 |  ................................................................................................... |  see more details in the fileset catalog .........
+<li> <a href=pbar1b0s71r0000/AAA_CATALOG.html width=200px>pbar1b0s71r0</a> | <a href=pbar1b0s71r0000/AAA_FILES.txt> files </a> | vX_X_X |  ................................................................................................... |  see more details in the fileset catalog .........
+</ul>
+<hr>
+<li> STNTUPLE's for in-situ estimates of the Mu2e ppbar background 
+
+<li> STNTUPLE block names are defined in 
+<a href=https://www.github.com/Mu2e/Stntuple/blob/master/fcl/prolog.fcl>StntupleMakerDe</a> table 
+
+<li> <a href=https://github.com/Mu2e/Stntuple/blob/master/doc/Stntuple.org>Stntuple documentation</a> 
+<p>
+
+
+<body style="" >
+ <a href=https://mu2einternalwiki.fnal.gov/wiki/Stntuple-Datasets>back to the top catalog page</a>
+<!-- Start of footer:  End your html before this comment. -->
+<!--#set var="contact" value="kutschke@fnal.gov" -->
+<!--#include virtual="/includes/mu2e_footer.shtml" -->

@@ -1,0 +1,36 @@
+<pre>
+#------------------------------------------------------------------------------------------------------------------------------------
+# <b>dataset: m10s7210</b> 
+# fileset     server             directory          nevents
+#------------------------------------------------------------------------------------------------------------------------------------
+000001  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   214202    4001         1    4001     50000
+000002  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   213551    4001         1    4001     50000
+000003  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   213849    4001         1    4001     50000
+000004  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   214774    4001         1    4001     50000
+000005  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   213979    4001         1    4001     50000
+000006  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   213624    4001         1    4001     50000
+000007  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   213855    4001         1    4001     50000
+000008  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   213781    4001         1    4001     50000
+000009  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   213715    4001         1    4001     50000
+000010  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   214772    4001         1    4001     49999
+000011  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   214495    4001         1    4001     50000
+000012  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   214143    4001         1    4001     50000
+000013  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   213944    4001         1    4001     50000
+000014  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   213930    4001         1    4001     50000
+000015  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   214481    4001         1    4001     50000
+000016  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   214014    4001         1    4001     50000
+000017  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   214482    4001         1    4001     50000
+000018  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   213765    4001         2    4001     50000
+000019  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   213931    4001         2    4001     50000
+000020  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   213762    4001         2    4001     50000
+000021  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   214527    4001         2    4001     50000
+000022  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   214358    4001         2    4001     50000
+000023  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   213989    4001         2    4001     50000
+000024  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   213970    4001         2    4001     50000
+000025  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   214011    4001         2    4001     50000
+000026  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   214067    4001         3    4001     50000
+000027  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   214345    4001         3    4001     50000
+000028  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   213452    4001         4    4001     50000
+000029  mu2ebuild01.fnal.gov  /mu2e/data/users/gianipez/datasets/m10s7210   122524    4001         4    4001     50000
+#------------------------------------------------------------------------------------------------------------------------------------
+</pre>

@@ -1,0 +1,14 @@
+<pre>
+#------------------------------------------------------------------------------------------------------------------------------------
+# <b>dataset: r40s721z</b> 
+# fileset       server                                 directory                   nevents
+#------------------------------------------------------------------------------------------------------------------------------------
+000001  bluearc://localhost.fnal.gov  /mu2e/data/users/murat/datasets/r40s721z      218615    1002         1    1002     60000
+000002  bluearc://localhost.fnal.gov  /mu2e/data/users/murat/datasets/r40s721z      217857    1002         1    1002     60000
+000003  bluearc://localhost.fnal.gov  /mu2e/data/users/murat/datasets/r40s721z      217950    1002         2    1002     60000
+000004  bluearc://localhost.fnal.gov  /mu2e/data/users/murat/datasets/r40s721z      218183    1002         2    1002     60000
+000005  bluearc://localhost.fnal.gov  /mu2e/data/users/murat/datasets/r40s721z      217940    1002         3    1002     60000
+000006  bluearc://localhost.fnal.gov  /mu2e/data/users/murat/datasets/r40s721z      217966    1002         4    1002     60000
+000007  bluearc://localhost.fnal.gov  /mu2e/data/users/murat/datasets/r40s721z       54394    1002         7    1002     59999
+#------------------------------------------------------------------------------------------------------------------------------------
+</pre>

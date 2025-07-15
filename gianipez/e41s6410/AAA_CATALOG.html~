@@ -1,0 +1,13 @@
+<pre>
+#------------------------------------------------------------------------------------------------------------------------------------
+# <b>dataset: e41s6410</b> 
+# fileset     server             directory          nevents
+#------------------------------------------------------------------------------------------------------------------------------------
+000001  mu2egpvm02.fnal.gov   /mu2e/data/users/gianipez/datasets/e41s6410   200479    4001         1    4001      1000
+000002  mu2egpvm02.fnal.gov   /mu2e/data/users/gianipez/datasets/e41s6410   200105    4001         1    4001      1000
+000003  mu2egpvm02.fnal.gov   /mu2e/data/users/gianipez/datasets/e41s6410   200322    4001         1    4001      1000
+000004  mu2egpvm02.fnal.gov   /mu2e/data/users/gianipez/datasets/e41s6410   200304    4001         1    4001      1000
+000005  mu2egpvm02.fnal.gov   /mu2e/data/users/gianipez/datasets/e41s6410   200451    4001         2    4001      1000
+000006  mu2egpvm02.fnal.gov   /mu2e/data/users/gianipez/datasets/e41s6410   107751    4001         3    4001      1000
+#------------------------------------------------------------------------------------------------------------------------------------
+</pre>

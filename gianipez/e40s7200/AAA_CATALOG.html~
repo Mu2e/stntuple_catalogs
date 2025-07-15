@@ -1,0 +1,12 @@
+<pre>
+#------------------------------------------------------------------------------------------------------------------------------------
+# <b>dataset: p10s7200</b> 
+# DESCRIPTION: Stntuple'd ceplusEndpoint <b>, 2 track branches (Dar, Par) + 3 Helix branches + 1 TrackSeed branch </b> dataset, offline v7_2_0
+# fileset     server             directory          nevents
+#------------------------------------------------------------------------------------------------------------------------------------
+000001  bluearc://localhost.fnal.gov  /mu2e/data/users/gianipez/datasets/e40s7200   200650    1002         1    1002     10000
+000002  bluearc://localhost.fnal.gov  /mu2e/data/users/gianipez/datasets/e40s7200   200999    1002         2    1002     10000
+000003  bluearc://localhost.fnal.gov  /mu2e/data/users/gianipez/datasets/e40s7200   200291    1002         4    1002     10000
+000004  bluearc://localhost.fnal.gov  /mu2e/data/users/gianipez/datasets/e40s7200     6045    1002        11    1002      9999
+#------------------------------------------------------------------------------------------------------------------------------------
+</pre>

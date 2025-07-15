@@ -1,0 +1,57 @@
+<pre>
+#-----------------------------------------------------------------------------------------------------------------------------------------------
+# <b>dataset: bmup2b0s44r0100</b> 
+# :DESCRIPTION: 
+# fs       server                   directory                                           nevents
+#-----------------------------------------------------------------------------------------------------------------------------------------------
+000001  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1695994    1210         1    1210   1600000
+000002  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1688987    1210         1    1210   1600000
+000003  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1112715    1210         1    1210   1600000
+000004  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1692876    1210         1    1210   1600000
+000005  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1680839    1210         1    1210   1599999
+000006  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1704770    1210         1    1210   1600000
+000007  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1710375    1210         1    1210   1599999
+000008  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1715656    1210         1    1210   1600000
+000009  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1702315    1210         1    1210   1599997
+000010  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1698009    1210         1    1210   1599999
+000011  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1682818    1210         1    1210   1600000
+000012  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1685169    1210         1    1210   1599999
+000013  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1692773    1210         1    1210   1600000
+000014  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1683668    1210         1    1210   1600000
+000015  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1680706    1210         1    1210   1600000
+000016  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1705980    1210         1    1210   1600000
+000017  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1695549    1210         1    1210   1600000
+000018  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1690631    1210         1    1210   1599999
+000019  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1686270    1210         1    1210   1600000
+000020  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1704969    1210         1    1210   1600000
+000021  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1667214    1210         1    1210   1599998
+000022  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1693414    1210         1    1210   1600000
+000023  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1678437    1210         1    1210   1600000
+000024  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1708002    1210         1    1210   1599998
+000025  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1707533    1210         1    1210   1599998
+000026  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1691414    1210         1    1210   1599998
+000027  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1697055    1210         1    1210   1599999
+000028  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1686245    1210         1    1210   1599999
+000029  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1712579    1210         1    1210   1599999
+000030  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1718427    1210         2    1210   1600000
+000031  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1692794    1210         2    1210   1599999
+000032  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1678815    1210         2    1210   1599998
+000033  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1685822    1210         2    1210   1600000
+000034  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1703725    1210         2    1210   1600000
+000035  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1694521    1210         2    1210   1599997
+000036  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1698473    1210         2    1210   1599998
+000037  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1690376    1210         2    1210   1600000
+000038  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1694175    1210         2    1210   1599999
+000039  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1692565    1210         3    1210   1599999
+000040  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1695679    1210         3    1210   1599999
+000041  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1701086    1210         4    1210   1600000
+000042  bluearc://localhost.fnal.gov  /exp/mu2e/data/projects/pipenu/stntuple/bmup2b0s44r0100 1716091    1210         7    1210   1600000
+#-----------------------------------------------------------------------------------------------------------------------------------------------
+# :NTOTAL:                                                                             70615511
+# :NGENERATED:                                                                                 
+# :MC_FLAG:                                                                                   1
+# :PROCESS_CODE:                                                                               
+# :PDG_CODE:                                                                                   
+# :OFFLINE_VERSION:                                                                   vXX_XX_XX
+#-----------------------------------------------------------------------------------------------------------------------------------------------
+</pre>

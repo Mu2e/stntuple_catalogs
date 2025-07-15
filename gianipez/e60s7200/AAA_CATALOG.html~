@@ -1,0 +1,12 @@
+<pre>
+#------------------------------------------------------------------------------------------------------------------------------------
+# <b>dataset: p20s7200</b> 
+# DESCRIPTION: Stntuple'd flateplus <b>, 2 track branches (Dar, Par) + 3 Helix branches + 1 TrackSeed branch </b> dataset, offline v7_2_0
+# fileset     server             directory          nevents
+#------------------------------------------------------------------------------------------------------------------------------------
+000001  bluearc://localhost.fnal.gov  /mu2e/data/users/gianipez/datasets/p20s7200   200883    1002         1    1002     10000
+000002  bluearc://localhost.fnal.gov  /mu2e/data/users/gianipez/datasets/p20s7200   202044    1002         2    1002     10000
+000003  bluearc://localhost.fnal.gov  /mu2e/data/users/gianipez/datasets/p20s7200   201660    1002         3    1002     10000
+000004  bluearc://localhost.fnal.gov  /mu2e/data/users/gianipez/datasets/p20s7200   136423    1002         5    1002     10000
+#------------------------------------------------------------------------------------------------------------------------------------
+</pre>

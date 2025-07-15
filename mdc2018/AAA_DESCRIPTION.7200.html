@@ -1,0 +1,7 @@
+<p>
+<li> <b>*7200</b> datasets are the analysis datasets. Known quirks:
+  <ul>
+    <li> virtual detector hits in *7200 datasets have times which extend beyound 1695 ns and need to be "wrapped around": t1 = fmod(t,1695)    
+    <li> about 0.4% of events have very large values of TStnTrack::fDpF because of wrongly identified MC particle at the tracker front
+  </ul>
+<p>

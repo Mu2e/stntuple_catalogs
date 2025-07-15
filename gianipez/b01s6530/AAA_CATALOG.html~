@@ -1,0 +1,13 @@
+<pre>
+#------------------------------------------------------------------------------------------------------------------------------------
+# <b>dataset: b01s6530</b> 
+# DESCRIPTION: Stntuple'd CE+MIX (fast calo reco) <b>, 3 track branches + 2 Helix branches + 2 TrackSeed branches </b> dataset, offline v6_5_3
+# fileset     server             directory          nevents
+#------------------------------------------------------------------------------------------------------------------------------------
+000001  bluearc://localhost.fnal.gov   /mu2e/data/users/gianipez/datasets/b01s6530   201000    4001         1    4001      1000
+000002  bluearc://localhost.fnal.gov   /mu2e/data/users/gianipez/datasets/b01s6530   201000    4001         1    4001      1000
+000003  bluearc://localhost.fnal.gov   /mu2e/data/users/gianipez/datasets/b01s6530   201000    4001         1    4001      1000
+000004  bluearc://localhost.fnal.gov   /mu2e/data/users/gianipez/datasets/b01s6530   201000    4001         1    4001      1000
+000005  bluearc://localhost.fnal.gov   /mu2e/data/users/gianipez/datasets/b01s6530   192000    4001         1    4001      1000
+#------------------------------------------------------------------------------------------------------------------------------------
+</pre>

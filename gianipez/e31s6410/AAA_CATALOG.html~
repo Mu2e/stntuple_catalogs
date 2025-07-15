@@ -1,0 +1,11 @@
+<pre>
+#------------------------------------------------------------------------------------------------------------------------------------
+# <b>dataset: e31s6410</b> 
+# DESCRIPTION: Stntuple'd CE+MIX: bug fix in tollMax <b>, 3 track branches + 2 Helix branches + 2 TrackSeed branches </b> dataset, offline v6_4_0
+# fileset     server             directory          nevents
+#------------------------------------------------------------------------------------------------------------------------------------
+000001  bluearc://localhost.fnal.gov   /mu2e/data/users/gianipez/datasets/e31s6410   200212    4001         1    4001      1000
+000002  bluearc://localhost.fnal.gov   /mu2e/data/users/gianipez/datasets/e31s6410   200343    4001         1    4001      1000
+000003  bluearc://localhost.fnal.gov   /mu2e/data/users/gianipez/datasets/e31s6410    12348    4001         4    4001      1000
+#------------------------------------------------------------------------------------------------------------------------------------
+</pre>

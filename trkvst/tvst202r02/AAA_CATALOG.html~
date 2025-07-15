@@ -1,0 +1,28 @@
+<pre>
+#-----------------------------------------------------------------------------------------------------------------------------------------------
+# <b>dataset: tvst202r02</b> 
+# :DESCRIPTION: 
+# fs       server                   directory                                       nevents
+#-----------------------------------------------------------------------------------------------------------------------------------------------
+000001  bluearc://localhost.fnal.gov  /mu2e/data/projects/tracker/vst/stntuple/tvst202r02 238971  100003   6719439  100003  58929361
+000002  bluearc://localhost.fnal.gov  /mu2e/data/projects/tracker/vst/stntuple/tvst202r02 1095080  100004       973  100004 243764631
+000003  bluearc://localhost.fnal.gov  /mu2e/data/projects/tracker/vst/stntuple/tvst202r02 611396  100005   9978094  100005 150892974
+000004  bluearc://localhost.fnal.gov  /mu2e/data/projects/tracker/vst/stntuple/tvst202r02 1183474  100006      1133  100006 276033923
+000005  bluearc://localhost.fnal.gov  /mu2e/data/projects/tracker/vst/stntuple/tvst202r02 1161427  100007       220  100007 257422802
+000006  bluearc://localhost.fnal.gov  /mu2e/data/projects/tracker/vst/stntuple/tvst202r02 1012296  100008       595  100008 232661342
+000007  bluearc://localhost.fnal.gov  /mu2e/data/projects/tracker/vst/stntuple/tvst202r02 1149519  100009       869  100009 264237771
+000008  bluearc://localhost.fnal.gov  /mu2e/data/projects/tracker/vst/stntuple/tvst202r02 1145711  100010       499  100010 259725977
+000009  bluearc://localhost.fnal.gov  /mu2e/data/projects/tracker/vst/stntuple/tvst202r02 1134379  100011       319  100011 253760201
+000010  bluearc://localhost.fnal.gov  /mu2e/data/projects/tracker/vst/stntuple/tvst202r02 377438  100012        43  100012 293757742
+000011  bluearc://localhost.fnal.gov  /mu2e/data/projects/tracker/vst/stntuple/tvst202r02 993665  100013      1439  100013 231636038
+000012  bluearc://localhost.fnal.gov  /mu2e/data/projects/tracker/vst/stntuple/tvst202r02 1004100  100014       688  100014 226609949
+000013  bluearc://localhost.fnal.gov  /mu2e/data/projects/tracker/vst/stntuple/tvst202r02 1163774  100015       441  100015 268863818
+#-----------------------------------------------------------------------------------------------------------------------------------------------
+# :NTOTAL:                                                                         12271230
+# :NGENERATED:                                                                             
+# :MC_FLAG:                                                                               1
+# :PROCESS_CODE:                                                                           
+# :PDG_CODE:                                                                               
+# :OFFLINE_VERSION:                                                                  vX_X_X
+#-----------------------------------------------------------------------------------------------------------------------------------------------
+</pre>
