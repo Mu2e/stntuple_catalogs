@@ -2,28 +2,20 @@
 
 * STNTUPLE datasets , book = *trkvst*
 
-| filesets   | files | offline verion | comments                                                                                                                 |
-|------------+-------+----------------+--------------------------------------------------------------------------------------------------------------------------|
-| [[file:tvst000r02/AAA_CATALOG.html][tvst000r02]] | [[file:tvst000r02/AAA_FILES.txt][files]] | v10_10_02      | ................................................................................................... et catalog ......... |
+| filesets   | files | offline verion | comments                                                                                              |
+|------------+-------+----------------+-------------------------------------------------------------------------------------------------------|
+| [[file:tvst000r02/AAA_CATALOG.html][tvst000r02]] | [[file:tvst000r02/AAA_FILES.txt][files]] | v10_10_02      | ...................................................more details in the fileset catalog .........      |
+| [[file:tvst001r02/AAA_CATALOG.html][tvst001r02]] | [[file:tvst001r02/AAA_FILES.txt][files]] | v10_10_02      | ....................................................see more details in the fileset catalog ......... |
+| [[file:tvst002r02/AAA_CATALOG.html][tvst002r02]] | [[file:tvst002r02/AAA_FILES.txt][files]] | v10_10_02      | .............................................................................................         |
+| [[file:tvst003r02/AAA_CATALOG.html][tvst003r02]] | [[file:tvst003r02/AAA_FILES.txt][files]] | v10_10_02      | ........................see more details in the fileset catalog .........                             |
+| [[file:tvst202r02/AAA_CATALOG.html][tvst202r02]] | [[file:tvst202r02/AAA_FILES.txt][files]] | v10_17_00      | strip from tvst002r02 of events with at least one good hit in each face............................   |
+| [[file:tvst303r02/AAA_CATALOG.html][tvst303r02]] | [[file:tvst303r02/AAA_FILES.txt][files]] | vX_X_X         | ...................................................................................................   |
+|------------+-------+----------------+-------------------------------------------------------------------------------------------------------|
 
-<li> <a href=tvst001r02/AAA_CATALOG.html width=200px>tvst001r02 .</a> | <a href=tvst001r02/AAA_FILES.txt> files </a> | v10_10_02 |  ................................................................................................... |  see more details in the fileset catalog .........
-<li> <a href=tvst002r02/AAA_CATALOG.html width=200px>tvst002r02 .</a> | <a href=tvst002r02/AAA_FILES.txt> files </a> | v10_10_02 |  ................................................................................................... |  see more details in the fileset catalog .........
-<li> <a href=tvst003r02/AAA_CATALOG.html width=200px>tvst003r02 .</a> | <a href=tvst003r02/AAA_FILES.txt> files </a> | v10_10_02 |  ................................................................................................... |  see more details in the fileset catalog .........
-<li> <a href=tvst202r02/AAA_CATALOG.html width=200px>tvst202r02 .</a> | <a href=tvst202r02/AAA_FILES.txt> files </a> | v10_17_00 |  strip from tvst002r02 of events with at least one good hit in each face............................ |  see more details in the fileset catalog .........
-<li> <a href=tvst303r02/AAA_CATALOG.html width=200px>tvst303r02 .</a> | <a href=tvst303r02/AAA_FILES.txt> files </a> | vX_X_X |  ................................................................................................... |  see more details in the fileset catalog .........
-</ul>
-<hr>
-<li> STNTUPLE's for the tracker vertical slice test (VST)
+* STNTUPLE's for the tracker vertical slice test (VST)
 
-<li> STNTUPLE block names are defined in 
-<a href=https://www.github.com/Mu2e/Stntuple/blob/master/fcl/prolog.fcl>StntupleMakerDe</a> table 
+- STNTUPLE block names are defined in [[href=https://www.github.com/Mu2e/Stntuple/blob/master/fcl/prolog.fcl][StntupleMakerDe]] table
 
-<li> <a href=https://github.com/Mu2e/Stntuple/blob/master/doc/Stntuple.org>Stntuple documentation</a> 
-<p>
+- [[https://github.com/Mu2e/Stntuple/blob/master/doc/Stntuple.org][Stntuple documentation]]
 
-
-<body style="" >
- <a href=https://mu2einternalwiki.fnal.gov/wiki/Stntuple-Datasets>back to the top catalog page</a>
-<!-- Start of footer:  End your html before this comment. -->
-<!--#set var="contact" value="kutschke@fnal.gov" -->
-<!--#include virtual="/includes/mu2e_footer.shtml" -->
+- [[https://mu2einternalwiki.fnal.gov/wiki/Stntuple-Datasets][back to the top catalog page]]
